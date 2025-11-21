@@ -1,0 +1,93 @@
+[
+    {
+        "nome": "Naruto",
+        "descrisao": "Naruto Uzumaki, um ninja adolescente, sonha em se tornar o Hokage, o líder de sua vila.",
+        "ano": 2002,
+        "imagem": "https://br.web.img3.acsta.net/pictures/16/04/11/16/56/089875.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Naruto"
+    },
+    {
+        "nome": "Attack on Titan",
+        "descrisao": "A humanidade luta pela sobrevivência dentro de cidades muradas contra gigantes humanoides devoradores de homens.",
+        "ano": 2013,
+        "imagem": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Shingeki_no_Kyojin"
+    },
+    {
+        "nome": "Death Note",
+        "descrisao": "Um estudante do ensino médio descobre um caderno sobrenatural que lhe permite matar qualquer pessoa cujo nome ele escreva nele.",
+        "ano": 2006,
+        "imagem": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Death_Note"
+    },
+    {
+        "nome": "One Piece",
+        "descrisao": "Monkey D. Luffy, um jovem que ganhou corpo de borracha depois de comer uma fruta do diabo, viaja em busca do tesouro One Piece para se tornar o Rei dos Piratas.",
+        "ano": 1999,
+        "imagem": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
+        "link": "https://pt.wikipedia.org/wiki/One_Piece"
+    },
+    {
+        "nome": "Fullmetal Alchemist: Brotherhood",
+        "descrisao": "Dois irmãos alquimistas procuram a Pedra Filosofal para restaurar seus corpos após uma tentativa fracassada de trazer sua mãe de volta à vida.",
+        "ano": 2009,
+        "imagem": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Fullmetal_Alchemist:_Brotherhood"
+    },
+    {
+        "nome": "Jujutsu Kaisen",
+        "descrisao": "Um estudante se envolve com uma sociedade secreta de Feiticeiros Jujutsu para matar uma maldição poderosa chamada Ryomen Sukuna, da qual ele se torna o hospedeiro.",
+        "ano": 2020,
+        "imagem": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Jujutsu_Kaisen"
+    },
+    {
+        "nome": "Demon Slayer",
+        "descrisao": "Um jovem se torna um caçador de demônios para vingar sua família e curar sua irmã que foi transformada em um demônio.",
+        "ano": 2019,
+        "imagem": "https://a.storyblok.com/f/178900/1064x1604/ff271919e4/demon-slayer-castelo-infinito-announcement_kv_2x3_ptbr.png/m/filters:quality(95)format(webp)",
+        "link": "https://pt.wikipedia.org/wiki/Kimetsu_no_Yaiba"
+    },
+    {
+        "nome": "My Hero Academia",
+        "descrisao": "Em um mundo onde quase todos têm superpoderes, um garoto nascido sem eles sonha em se tornar o maior herói de todos.",
+        "ano": 2016,
+        "imagem": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Boku_no_Hero_Academia"
+    },
+    {
+        "nome": "Cowboy Bebop",
+        "descrisao": "A tripulação de caçadores de recompensas da nave Bebop viaja pelo sistema solar em busca de trabalho.",
+        "ano": 1998,
+        "imagem": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Cowboy_Bebop"
+    },
+    {
+        "nome": "Steins;Gate",
+        "descrisao": "Um grupo de amigos descobre um método de enviar mensagens para o passado, causando mudanças drásticas no presente.",
+        "ano": 2011,
+        "imagem": "https://cdn.myanimelist.net/images/anime/5/73199.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Steins;Gate"
+    },
+    {
+        "nome": "Hunter x Hunter (2011)",
+        "descrisao": "Gon Freecss deseja se tornar um Hunter para encontrar seu pai. Ele faz amigos e enfrenta desafios perigosos ao longo do caminho.",
+        "ano": 2011,
+        "imagem": "https://cdn.myanimelist.net/images/anime/11/33657.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Hunter_%C3%97_Hunter"
+    },
+    {
+        "nome": "Code Geass",
+        "descrisao": "Em um Japão conquistado, um jovem exilado ganha um poder chamado Geass e lidera uma rebelião contra o império opressor.",
+        "ano": 2006,
+        "imagem": "https://cdn.myanimelist.net/images/anime/5/50331.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Code_Geass"
+    },
+    {
+        "nome": "Neon Genesis Evangelion",
+        "descrisao": "Adolescentes pilotam mechas gigantes para proteger um mundo pós-apocalíptico de seres monstruosos conhecidos como Anjos.",
+        "ano": 1995,
+        "imagem": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+        "link": "https://pt.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+    }
+]
